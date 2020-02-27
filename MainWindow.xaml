@@ -6,6 +6,32 @@
         xmlns:local="clr-namespace:EmailTranslate"
         mc:Ignorable="d"
         Title="Email Translator" Height="700" Width="900"
-        Background="Black">
+        Background="Black" >
+
+    <Grid Width="400px" 
+          Height="300px"
+          HorizontalAlignment="Left"
+          VerticalAlignment="Top">
+  
+        <ListView Margin="10" Name="lvUsers">
+            
+            <Style TargetType="ListViewItem">
+                <Setter Property="Background" Value="AliceBlue" />
+                <Setter Property="BorderBrush" Value="BlanchedAlmond" />
+                <Setter Property="BorderThickness" Value="2" />
+                <Style.Triggers>
+                    <Trigger Property="IsSelected" Value="True">
+                        <Setter Property="Foreground" Value="Red" />
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Subject" Width="200px" DisplayMemberBinding="{Binding Subject}" />
+                    <GridViewColumn Header="Sender" Width="200px" DisplayMemberBinding="{Binding Sender}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
 
 </Window>

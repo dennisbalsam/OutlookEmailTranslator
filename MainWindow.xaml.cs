@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using EmailImport;
+
 
 namespace EmailTranslate
 {
@@ -20,9 +22,12 @@ namespace EmailTranslate
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+       /* public MainWindow()
         {
             InitializeComponent();
-        }
+            List<ImportEmail> mails = ImportEmail.ReadEmailItem();
+            lvUsers.ItemsSource = mails;
+        }*/
+    
     }
 }

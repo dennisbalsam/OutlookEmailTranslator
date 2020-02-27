@@ -8,7 +8,7 @@ using Microsoft.Office.Interop.Outlook;
 using TranslateTextSample; 
 
 
-namespace ConsoleApp1
+namespace EmailImport
 {
     class ImportEmail
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using ConsoleApp1;
+using EmailImport;
 using TranslateTextSample;
 namespace Email_Translate
 {

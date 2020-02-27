@@ -16,3 +16,21 @@ C:\Users\denni\Documents\Intern-Challenge UBS 2019\Email-Translation\Email-Trans
 C:\Users\denni\Documents\Intern-Challenge UBS 2019\Email-Translation\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.csproj.CopyComplete
 C:\Users\denni\Documents\Intern-Challenge UBS 2019\Email-Translation\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.exe
 C:\Users\denni\Documents\Intern-Challenge UBS 2019\Email-Translation\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.pdb
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.csprojAssemblyReference.cache
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\MainWindow.g.cs
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\App.g.cs
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate_MarkupCompile.cache
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate_MarkupCompile.lref
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\bin\Debug\EmailTranslate.exe.config
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\bin\Debug\EmailTranslate.exe
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\bin\Debug\EmailTranslate.pdb
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\MainWindow.baml
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.g.resources
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.Properties.Resources.resources
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.csproj.GenerateResource.cache
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.csproj.CopyComplete
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.exe
+C:\Users\denni\Documents\Email-TranslateUI\EmailTranslate\obj\Debug\EmailTranslate.pdb
